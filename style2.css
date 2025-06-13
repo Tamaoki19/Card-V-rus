@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #E1FFBB;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin: 20px;
+  border-radius: 10px;
+  padding: 20px 20px;
+  font-size: 80px;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #169e43;
+  background: linear-gradient(344deg, rgba(22, 158, 67, 1) 0%, rgba(0, 93, 69, 1) 100%);
+  width: 100%;
+  height: 150px;
+  border-radius: 0 0 10px 10px;
+  padding: 0 20px;
+}
+
+img {
+  width: 230px;
+  height: auto;
+border-radius: 20px;
+}
+
+h1 {
+  font-size: 70px;
+  margin-left: 20px;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+h3 {
+  font-size: 35px;
+  margin-right: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  transition: transform 0.3s ease, color 0.3s ease;
+  font-size: 35px;
+}
+
+a:hover {
+  transform: scale(1.05);
+  color: rgb(28, 84, 56);
+  cursor: pointer;
+}
+
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.devs{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+   
+}
+
+
+.MM{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.nomes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    font-size: 20px;
+   
+}
+
+.perfil {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.perfil img {
+    width: 200px;       
+    height: 250px;      
+    object-fit: cover;
+}
+
+.titulo{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+
+
+.sesi{
+     width: 230px;
+    height: auto;
+}
+footer{
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #169e43;
+  background: linear-gradient(344deg, rgba(22, 158, 67, 1) 0%, rgba(0, 93, 69, 1) 100%);
+  width: 100%;
+  height: 60px;
+  border-radius: 0 0 10px 10px;
+  padding: 0 20px;
+}
+
