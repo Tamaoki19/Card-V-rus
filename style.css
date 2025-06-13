@@ -152,7 +152,7 @@ position: absolute;
   background-image: url(imagem/card\ parte\ da\ frente-1\ 1-Recuperado\ 1.jpg);
 }
 #card3 .front{
-  background-image: url(imagem/POLIOMELITE 2.png);
+  background-image: url(./imagem/POLIOMELITE2.png);
 }
 #card3 .back {
   background-image: url(imagem/polio.png);
@@ -170,7 +170,7 @@ position: absolute;
   background-image: url(imagem/card\ parte\ da\ frente\ pepe\ 2.jpg);
 }
 #card6 .front{
-  background-image: url(imagem/SARAMPO.png);
+  background-image: url(./imagem/SARAMPO.png);
 }
 #card6 .back {
   background-image: url(imagem/sarampo.png);
