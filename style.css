@@ -67,12 +67,12 @@ a:hover {
 }
 #button{
 position: absolute;
-    bottom: 57px;
-    left: 51%;
+    bottom: 53px;
+    left: 50.4%;
     transform: translateX(-50%);
     background-color: #ffffffcc;
     color: #006400;
-    padding: 12px 24px;        
+    padding: 16px 40px;        
     font-size: 18px;           
     border-radius: 30px;       
     text-decoration: none;
@@ -113,7 +113,7 @@ position: absolute;
 
 .front,
 .back {
-  background-image: url(imagem/espanhola.png);
+  background-image: url(./capa-virus/gripe.png);
   position: absolute;
   width: 372px;
   height: 600px;
@@ -130,7 +130,7 @@ position: absolute;
 }
 
 .front {
-  background-image: url(imagem/gripe.png);
+  background-image: url(imagem/GRIPE\ ESPANHOLA.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -146,50 +146,50 @@ position: absolute;
   z-index: 1;
 } 
 #card2 .front{
-  background-image: url(imagem/covid.png);
+  background-image: url(./capa-virus/TRAS-COVID-1.png);
 }
 #card2 .back {
-  background-image: url(imagem/card\ parte\ da\ frente-1\ 1-Recuperado\ 1.jpg);
+  background-image: url(./capa-virus/covid\ 19.png);
 }
 #card3 .front{
-  background-image: url(./imagem/POLIOMELITE2.png);
+  background-image: url(./capa-virus/TRAS-POLIOMELITE-1.png);
 }
 #card3 .back {
-  background-image: url(imagem/polio.png);
+  background-image: url(./capa-virus/card-frente.9.poliomelite.png);
 }
 #card4 .front{
-  background-image: url(imagem/HIV.png);
+  background-image: url(./capa-virus/hivremake.png);
 }
 #card4 .back {
-  background-image: url(imagem/hiv\ remake.jpg);
+  background-image: url(./capa-virus/hiv\ fontenova.jpg);
 }
 #card5 .front{
-  background-image: url(imagem/raiva.png);
+  background-image: url(./capa-virus/raiva.png);
 }
 #card5 .back {
-  background-image: url(imagem/card\ parte\ da\ frente\ pepe\ 2.jpg);
+  background-image: url(./imagem/card\ parte\ da\ frente\ pepe\ 2.jpg );
 }
 #card6 .front{
-  background-image: url(./imagem/SARAMPO.png);
+  background-image: url(./capa-virus/sarampo.png);
 }
 #card6 .back {
-  background-image: url(imagem/sarampo.png);
+  background-image: url(./imagem/sarampo.png);
 }
 #card7 .front{
-  background-image: url(imagem/DENGUE.png);
+  background-image: url(./capa-virus/TRAS-DENGUE-1.png);
 }
 #card7 .back {
   background-image: url(imagem/Dengue\ 1.jpg);
 }
 #card8 .front{
-  background-image: url(imagem/HERPES.png);
+  background-image: url(./capa-virus/herpes.png);
 }
 #card8 .back {
   background-image: url(imagem/card\ parte\ da\ frente-1\ 1\ herpes.jpg);
 }
 #card9 .front{
-  background-image: url(imagem/HPV.png);
+  background-image: url(./capa-virus/hpvtras.png);
 }
 #card9 .back {
-  background-image: url(imagem/hpv.png);
+  background-image: url(./capa-virus/hpv-fontenova.jpg);
 }
