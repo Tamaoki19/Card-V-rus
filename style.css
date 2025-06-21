@@ -179,13 +179,13 @@ position: absolute;
   background-image: url(./capa-virus/TRAS-DENGUE-1.png);
 }
 #card7 .back {
-  background-image: url(imagem/Dengue\ 1.jpg);
+  background-image: url(./capa-virus/dengue_rm.png);
 }
 #card8 .front{
   background-image: url(./capa-virus/herpes.png);
 }
 #card8 .back {
-  background-image: url(imagem/card\ parte\ da\ frente-1\ 1\ herpes.jpg);
+  background-image: url(./capa-virus/herpes_rm.png);
 }
 #card9 .front{
   background-image: url(./capa-virus/hpvtras.png);
